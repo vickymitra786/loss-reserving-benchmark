@@ -1,0 +1,41 @@
+How good are reserve ranges? Chain-ladder, Mack and bootstrap tested against
+realised outcomes in Schedule P data
+Author: Vivek Mitra, Independent researcher, vivekmitra.com
+Files: paper/reserving.pdf (7 pages), paper/reserving.docx, code repository
+loss-reserving-benchmark (AGPL-3.0).
+
+WHERE TO SUBMIT (in suggested order)
+1. SSRN (preprint, free, fast). Topic: Insurance / Risk Management. Upload the PDF,
+   abstract (from the paper), keywords, JEL codes G22 (Insurance) and C53
+   (Forecasting). No exclusivity, so it can be posted before a journal submission.
+2. arXiv (preprint, free). Category q-fin.RM (Risk Management), cross-list stat.AP.
+   First-time submitters in a category may need an endorsement from an existing
+   author. Upload the PDF (or source). Licence choice: CC BY 4.0 is common.
+3. CAS E-Forum (Casualty Actuarial Society). Practitioner-facing; the most direct
+   readership for this topic. Check the current call for papers and its format
+   template on casact.org; papers are usually reviewed by a committee rather than
+   full peer review.
+4. Variance (peer-reviewed CAS journal). Submit through the journal's online
+   system. Usually wants an anonymised manuscript (remove the author line and
+   self-references) and a separate title page.
+5. Risks (MDPI, open access, peer reviewed). Uses MDPI's submission system and
+   Word/LaTeX template. Charges an article processing charge: check the current
+   amount on the journal site before submitting.
+Submit to only one peer-reviewed journal (Variance OR Risks) at a time.
+Preprints on SSRN/arXiv are allowed by both, but confirm the policy at submission.
+
+CHECKLIST BEFORE SUBMITTING
+[ ] Run python test_reserving.py: both checks pass.
+[ ] Run python run_all.py: numbers in results/summary.json match the paper
+    (rebuild the paper with npm run build in paper/ if anything changed).
+[ ] Repository github.com/vickymitra786/loss-reserving-benchmark is public and
+    the README results table matches the paper.
+[ ] Author line, affiliation and email are correct on the title page.
+[ ] For Variance: anonymised copy prepared (no name, no vivekmitra.com, no repo URL).
+[ ] For Risks: re-flow into the MDPI template; add Author Contributions, Funding
+    (none), Data Availability (CAS public data + repo URL), Conflicts of Interest (none).
+[ ] Data credit to the CAS and Meyers and Shi (2011) is present.
+[ ] All references open and match the cited details.
+[ ] Abstract within the venue's word limit (paper abstract is about 150 words).
+[ ] Cover letter: one paragraph on the question, the main finding (90% ranges
+    held the truth 65-67% of the time), and why it matters for reserve opinions.

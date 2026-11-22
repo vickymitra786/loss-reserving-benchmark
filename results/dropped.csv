@@ -1,0 +1,511 @@
+line,code,name,reason
+ppauto,1252,Penn Miller Grp,non-positive premium
+ppauto,1279,American Modern Ins Grp Inc,non-positive premium
+ppauto,2259,Occidental Fire & Cas Co Grp,non-positive premium
+ppauto,3131,Aegis Grp,non-positive premium
+ppauto,3492,Florists Mut Ins Grp,non-positive premium
+ppauto,7480,Star Ins Grp,non-positive premium
+ppauto,7676,Pennsylvania Mfg Asn Ins Co,non-positive premium
+ppauto,8672,Protective Ins Grp,non-positive premium
+ppauto,9466,Lumber Ins Cos,non-positive premium
+ppauto,10007,Nevada General Ins Co,non-positive premium
+ppauto,10019,Overseas Partners Us Reins Co,non-positive premium
+ppauto,10204,Consumers Ins Usa Inc,non-positive premium
+ppauto,10308,Antilles Ins Co,non-positive premium
+ppauto,10336,Usauto Ins Co,non-positive premium
+ppauto,10783,Cornerstone Natl Ins Co,non-positive premium
+ppauto,11126,Yasuda Fire & Marine Ins Co Of Amer,paid decreases in known triangle
+ppauto,11150,First Amer Ins Co,non-positive premium
+ppauto,11231,Generali Us Branch,non-positive first-year paid
+ppauto,11460,Homestead Ins Co,non-positive premium
+ppauto,11819,Manhattan Re Ins Co,non-positive premium
+ppauto,12360,Ocean Harbor Cas Ins Co,non-positive premium
+ppauto,13285,Allegheny Cas Co,non-positive premium
+ppauto,13528,Brotherhood Mut Ins Co,paid decreases in known triangle
+ppauto,13781,US Lloyds Ins Co,paid decreases in known triangle
+ppauto,13943,Fitchburg Mut Ins Co,non-positive first-year paid
+ppauto,14281,Inland Mut Ins Co,non-positive premium
+ppauto,14370,Lebanon Mut Ins Co,paid decreases in known triangle
+ppauto,14550,Wea Prop & Cas Ins Co,non-positive premium
+ppauto,14885,Northwest Gf Mut Ins Co,non-positive premium
+ppauto,15172,Southern Mut Ins Co,non-positive premium
+ppauto,15210,Sterling Ins Co,non-positive premium
+ppauto,17299,Mennonite Mut Ins Co,non-positive premium
+ppauto,17884,German Mut Ins Co,paid decreases in known triangle
+ppauto,18309,Pioneer State Mut Ins Co,non-positive premium
+ppauto,18380,Pacific Ind Ins Co,non-positive premium
+ppauto,18538,Bancinsure Inc,non-positive premium
+ppauto,18686,Co-Operative Ins Co,non-positive premium
+ppauto,19020,Bell United Ins Co,non-positive premium
+ppauto,19780,Springfield Fire & Cas Co,non-positive first-year paid
+ppauto,20430,Harbor Ins Co,non-positive premium
+ppauto,20800,Southland Lloyds Ins Co,non-positive premium
+ppauto,21172,Vanliner Ins Co,non-positive premium
+ppauto,22390,Wellington Ins Co,non-positive premium
+ppauto,23663,National American Ins Co,non-positive first-year paid
+ppauto,25755,Peachtree Cas Ins Co,paid decreases in known triangle
+ppauto,26077,Lancer Ins Co,non-positive premium
+ppauto,26905,Century-Natl Ins Co,non-positive premium
+ppauto,27980,Federated Natl Ins Co,non-positive premium
+ppauto,29297,Home State Cnty Mut Ins Co,non-positive premium
+ppauto,29378,Old American Cty Mut Fire Ins Co,paid decreases in known triangle
+ppauto,31810,Middle States Ins Co Inc,non-positive premium
+ppauto,32301,Nichido Fire & Marine Ins Co Ltd,non-positive premium
+ppauto,33545,Seminole Cas Ins Co,non-positive premium
+ppauto,35173,Agency Ins Co Of MD Inc,non-positive premium
+ppauto,37028,New Jersey Citizens United Rcp Exch,non-positive premium
+ppauto,37486,National Automotive Ins,non-positive first-year paid
+ppauto,37850,Pacific Specialty Ins Co,non-positive premium
+ppauto,38997,Nissan Fire & Marine Ins Co Us Br,no outstanding amount
+ppauto,39381,Adriatic Ins Co,non-positive premium
+ppauto,40223,Baltica-Skandinavia Rein Co Of Amer,non-positive premium
+ppauto,40550,Pacific Pioneer Ins Co,non-positive premium
+ppauto,40720,Interstate Auto Ins Co Inc,non-positive premium
+ppauto,41041,Auto Club South Ins Co,non-positive premium
+ppauto,41459,Armed Forces Ins Exchange,non-positive premium
+ppauto,41700,Southern Group Ind Inc,non-positive premium
+ppauto,42552,Nova Cas Co,non-positive premium
+ppauto,42749,Traders Ins Co,paid decreases in known triangle
+ppauto,42846,Atlantic Cas Ins Co,paid decreases in known triangle
+ppauto,43354,San Antonio Reins Co,non-positive premium
+wkcomp,353,Celina Mut Grp,paid decreases in known triangle
+wkcomp,460,Buckeye Ins Grp,non-positive premium
+wkcomp,655,FM Global,non-positive premium
+wkcomp,711,Patrons Grp,non-positive premium
+wkcomp,1090,Kentucky Farm Bureau Mut Ins Grp,non-positive premium
+wkcomp,1236,Shelter Ins Cos Grp,non-positive premium
+wkcomp,2143,Farmers Alliance Mut & Affiliates,non-positive premium
+wkcomp,2623,Canal Ins Co Grp,non-positive premium
+wkcomp,3000,Horace Mann Grp,non-positive first-year paid
+wkcomp,4839,FL Farm Bureau Grp,non-positive premium
+wkcomp,5010,Capitol Transamerican Grp,non-positive premium
+wkcomp,5940,American Contractors Ins Grp,non-positive premium
+wkcomp,6408,Mutual Benefit Grp,paid decreases in known triangle
+wkcomp,7714,Keystone Ins Grp,non-positive first-year paid
+wkcomp,8168,Commerce Grp Inc,non-positive premium
+wkcomp,8427,Farm Bureau Grp,non-positive premium
+wkcomp,10011,Mada Ins Exchange,non-positive premium
+wkcomp,10022,Agway Ins Co,non-positive first-year paid
+wkcomp,10048,Hyundai Marine & Fire Ins Co Ltd,non-positive premium
+wkcomp,10074,Martingale Natl Ins Co,non-positive premium
+wkcomp,10191,MO Employers Mut Ins Co,non-positive premium
+wkcomp,10520,Care West Ins Co,non-positive premium
+wkcomp,10561,Catholic Relief Ins Co Of Amer,non-positive premium
+wkcomp,10657,First Mercury Ins Co,non-positive premium
+wkcomp,10659,Diamond Ins Co,non-positive premium
+wkcomp,10709,Goldstreet Ins Co,non-positive premium
+wkcomp,10781,Hawaii Employers Mut Ins Co,non-positive premium
+wkcomp,10800,NHC Ins Co,non-positive premium
+wkcomp,10859,First Nonprofit Mut Ins Co,non-positive premium
+wkcomp,10874,GA Resaurant Mut Captive Ins Co,non-positive premium
+wkcomp,11231,Generali Us Branch,non-positive premium
+wkcomp,11460,Homestead Ins Co,non-positive premium
+wkcomp,12297,Petroleum Cas Co,non-positive premium
+wkcomp,13439,Partners Mut Ins Co,paid decreases in known triangle
+wkcomp,13587,Chicago Mut Ins Co,non-positive premium
+wkcomp,13641,Colorado Farm Bureau Mut Ins Co,non-positive premium
+wkcomp,13943,Fitchburg Mut Ins Co,non-positive first-year paid
+wkcomp,13994,Fremont Mut Ins Co,non-positive premium
+wkcomp,14044,Goodville Mut Cas Co,non-positive premium
+wkcomp,14575,Millers Capital Ins Co,non-positive premium
+wkcomp,15024,Preferred Mut Ins Co,non-positive premium
+wkcomp,15148,Sheboygan Falls Mut Ins Co,paid decreases in known triangle
+wkcomp,15199,Standard Mut Ins Co,paid decreases in known triangle
+wkcomp,15334,Utilities Mut Ins Co,paid decreases in known triangle
+wkcomp,15393,Wisconsin American Mut Ins Co,non-positive premium
+wkcomp,15792,Underwriters At Lloyds London,non-positive premium
+wkcomp,15911,American Mining Ins Co Inc,non-positive premium
+wkcomp,18380,Pacific Ind Ins Co,non-positive premium
+wkcomp,18791,Virginia Mut Ins Co,paid decreases in known triangle
+wkcomp,20451,Midstates Rein Corp,non-positive premium
+wkcomp,22635,Discovery Ins Co,non-positive premium
+wkcomp,22900,Louisiana Pest Control Ins Co,non-positive premium
+wkcomp,23140,Associated Industries Ins Co,paid decreases in known triangle
+wkcomp,23574,Midwest Family Mut Ins Co,non-positive premium
+wkcomp,23663,National American Ins Co,paid decreases in known triangle
+wkcomp,23876,Mapfre Reins Corp,non-positive premium
+wkcomp,24017,Beacon Mut Ins Co,non-positive premium
+wkcomp,24619,Transportation Cas Ins Co,non-positive premium
+wkcomp,26956,Wisconsin Cnty Mut Ins Corp,non-positive premium
+wkcomp,27065,Rockford Mut Ins Co,non-positive premium
+wkcomp,27626,Firstcomp Ins Co,non-positive premium
+wkcomp,27905,NLC Mut Ins Co,non-positive premium
+wkcomp,27955,Commercial Risk Re-Ins Co,non-positive premium
+wkcomp,28258,Continental Natl Ind Co,non-positive premium
+wkcomp,28886,Transguard Ins Co Of Amer Inc,non-positive premium
+wkcomp,30589,Capital City Ins Co Inc,paid decreases in known triangle
+wkcomp,31658,Zurich Ins (Guam) Inc,non-positive premium
+wkcomp,31780,Maple Valley Mut Ins Co,non-positive premium
+wkcomp,32005,Employers Security Ins Co,non-positive premium
+wkcomp,32875,British Amer Ins Co,non-positive first-year paid
+wkcomp,33111,MHA Ins Co,non-positive premium
+wkcomp,33499,Dorinco Rein Co,non-positive first-year paid
+wkcomp,35009,Financial Cas & Surety Inc,non-positive premium
+wkcomp,35408,Sirius Amer Ins Co,paid decreases in known triangle
+wkcomp,35904,Health Care Ind Inc,non-positive premium
+wkcomp,36790,Springfield Ins Co Inc,non-positive premium
+wkcomp,38300,Samsung Fire & Marine Ins Co Ltd,non-positive premium
+wkcomp,38644,Omega Ins Co,non-positive premium
+wkcomp,38997,Nissan Fire & Marine Ins Co Us Br,no outstanding amount
+wkcomp,40126,Umialik Ins Co,non-positive premium
+wkcomp,41394,Benchmark Ins Co,non-positive premium
+wkcomp,41580,Red Shield Ins Co,non-positive first-year paid
+wkcomp,42439,Toa-Re Ins Co Of Amer,non-positive premium
+wkcomp,43915,Rainier Ins Co,non-positive premium
+wkcomp,44091,Dowa Fire & Marine Ins Co Ltd Us Br,non-positive premium
+wkcomp,44300,Tower Ins Co Of NY,non-positive premium
+comauto,266,Public Underwriters Grp,non-positive premium
+comauto,337,California Cas Grp,non-positive premium
+comauto,460,Buckeye Ins Grp,non-positive premium
+comauto,655,FM Global,non-positive premium
+comauto,1066,Island Ins Cos Grp,paid decreases in known triangle
+comauto,1279,American Modern Ins Grp Inc,non-positive premium
+comauto,2208,Oklahoma Farm Grp,paid decreases in known triangle
+comauto,2569,New York Marine & General Ins Co,non-positive premium
+comauto,3131,Aegis Grp,non-positive premium
+comauto,5690,Farmers Mtl Hail Ins Co Of Ia Grp,non-positive premium
+comauto,5940,American Contractors Ins Grp,paid decreases in known triangle
+comauto,6807,Amerisafe Grp,non-positive premium
+comauto,8281,Amguard Norguard & Eastguard Grp,non-positive premium
+comauto,10019,Overseas Partners Us Reins Co,non-positive premium
+comauto,10048,Hyundai Marine & Fire Ins Co Ltd,non-positive premium
+comauto,10074,Martingale Natl Ins Co,non-positive premium
+comauto,10100,Proformance Ins Co (The),non-positive premium
+comauto,10561,Catholic Relief Ins Co Of Amer,non-positive premium
+comauto,10790,American Vehicle Ins Co,non-positive premium
+comauto,10894,United Grp Captive Ins Co,non-positive premium
+comauto,11150,First Amer Ins Co,non-positive premium
+comauto,11231,Generali Us Branch,non-positive premium
+comauto,11460,Homestead Ins Co,paid decreases in known triangle
+comauto,12866,THE Ins Co,paid decreases in known triangle
+comauto,13420,Badger Mut Ins Co,paid decreases in known triangle
+comauto,13641,Colorado Farm Bureau Mut Ins Co,paid decreases in known triangle
+comauto,14257,IMT Ins Co Mut,paid decreases in known triangle
+comauto,14311,Interboro Mut Ind Ins Co,paid decreases in known triangle
+comauto,14370,Lebanon Mut Ins Co,non-positive premium
+comauto,14508,Michigan Millers Mut Ins Co,paid decreases in known triangle
+comauto,14974,Pennsylvania Lumbermens Mut Ins,paid decreases in known triangle
+comauto,15407,Wolverine Mut Ins Co,non-positive premium
+comauto,15792,Underwriters At Lloyds London,non-positive premium
+comauto,15911,American Mining Ins Co Inc,non-positive premium
+comauto,15997,Maine Mut Fire Ins Co,non-positive premium
+comauto,16411,Cooperative Mut Ins Co,non-positive premium
+comauto,16748,Elevators Mut Ins Co,non-positive premium
+comauto,17299,Mennonite Mut Ins Co,non-positive premium
+comauto,17884,German Mut Ins Co,non-positive first-year paid
+comauto,18163,Cooperativa D Seguros Multiples PR,paid decreases in known triangle
+comauto,18309,Pioneer State Mut Ins Co,non-positive premium
+comauto,18380,Pacific Ind Ins Co,non-positive premium
+comauto,18538,Bancinsure Inc,non-positive premium
+comauto,18686,Co-Operative Ins Co,non-positive premium
+comauto,20451,Midstates Rein Corp,non-positive premium
+comauto,20690,New York Municipal Ins Reciprocal,non-positive premium
+comauto,22390,Wellington Ins Co,non-positive premium
+comauto,23574,Midwest Family Mut Ins Co,non-positive premium
+comauto,25950,Casco Ind Co,non-positive premium
+comauto,26797,Housing Authority Rrg Inc,non-positive premium
+comauto,27499,Southwest General Ins Co,non-positive premium
+comauto,27955,Commercial Risk Re-Ins Co,non-positive premium
+comauto,27980,Federated Natl Ins Co,non-positive premium
+comauto,28436,Farmers Union Mut Ins Co,non-positive premium
+comauto,28535,Triangle Ins Co Inc,non-positive premium
+comauto,28550,Housing & Redevelopment Ins Exch,non-positive premium
+comauto,28886,Transguard Ins Co Of Amer Inc,non-positive first-year paid
+comauto,29297,Home State Cnty Mut Ins Co,non-positive premium
+comauto,29440,Mountain West Farm Bu Mut Ins Co,paid decreases in known triangle
+comauto,31810,Middle States Ins Co Inc,non-positive premium
+comauto,32301,Nichido Fire & Marine Ins Co Ltd,non-positive first-year paid
+comauto,32514,Texas Hospital Ins Exch,non-positive premium
+comauto,32670,Farmers Union Mut Ins Co,non-positive premium
+comauto,32743,Alliance Mut Ins Co,non-positive first-year paid
+comauto,32875,British Amer Ins Co,paid decreases in known triangle
+comauto,32930,Capacity Ins Co,non-positive premium
+comauto,34525,First American Specilaty Ins Co,non-positive premium
+comauto,34606,Center Mut Ins Co,paid decreases in known triangle
+comauto,35408,Sirius Amer Ins Co,paid decreases in known triangle
+comauto,35483,Daily Underwriters Of Amer,non-positive first-year paid
+comauto,35904,Health Care Ind Inc,non-positive premium
+comauto,36560,Service Ins Co,non-positive premium
+comauto,36684,Nonprofits Ins Assn Interins,non-positive premium
+comauto,37206,Contractors Bonding & Ins Co,non-positive premium
+comauto,37850,Pacific Specialty Ins Co,non-positive premium
+comauto,38300,Samsung Fire & Marine Ins Co Ltd,non-positive premium
+comauto,38466,Evergreen USA RRG Inc,non-positive premium
+comauto,38644,Omega Ins Co,non-positive premium
+comauto,38997,Nissan Fire & Marine Ins Co Us Br,no outstanding amount
+comauto,40568,Seguros Triples Inc,paid decreases in known triangle
+comauto,40800,American Sterling Ins Co,non-positive premium
+comauto,41700,Southern Group Ind Inc,non-positive premium
+comauto,42552,Nova Cas Co,non-positive premium
+comauto,42846,Atlantic Cas Ins Co,non-positive premium
+comauto,43265,Gramercy Ins Co,non-positive premium
+comauto,43354,San Antonio Reins Co,non-positive premium
+comauto,43494,American Hallmark Ins Co Of TX,non-positive premium
+comauto,44091,Dowa Fire & Marine Ins Co Ltd Us Br,non-positive premium
+comauto,44130,Paratransit RRG Grp Ins Co,non-positive first-year paid
+comauto,44415,Yel Co Ins,non-positive premium
+comauto,44598,College Liability Ins Co Ltd RRG,paid decreases in known triangle
+othliab,337,California Cas Grp,non-positive premium
+othliab,460,Buckeye Ins Grp,non-positive first-year paid
+othliab,558,Auto Club Ins Assn,non-positive first-year paid
+othliab,669,Scpie Indemnity Co,non-positive first-year paid
+othliab,671,Farm Bureau Of MI Grp,paid decreases in known triangle
+othliab,683,Promutual Grp,paid decreases in known triangle
+othliab,1066,Island Ins Cos Grp,paid decreases in known triangle
+othliab,1996,Universal Surety Grp,non-positive premium
+othliab,2208,Oklahoma Farm Grp,paid decreases in known triangle
+othliab,2259,Occidental Fire & Cas Co Grp,non-positive premium
+othliab,2623,Canal Ins Co Grp,non-positive premium
+othliab,3085,Philadelphia CBSP Grp,non-positive first-year paid
+othliab,3131,Aegis Grp,non-positive premium
+othliab,3492,Florists Mut Ins Grp,non-positive first-year paid
+othliab,5339,South Carolina Farm Bureau Mut,non-positive premium
+othliab,5690,Farmers Mtl Hail Ins Co Of Ia Grp,paid decreases in known triangle
+othliab,5940,American Contractors Ins Grp,non-positive first-year paid
+othliab,6459,Oregon Mut Grp,paid decreases in known triangle
+othliab,6777,Philadelphia Ind Ins Co & Aff,non-positive premium
+othliab,7080,New Jersey Manufacturers Grp,non-positive first-year paid
+othliab,8001,Residence Mut Grp,non-positive premium
+othliab,8079,Columbia Ins Grp,paid decreases in known triangle
+othliab,8281,Amguard Norguard & Eastguard Grp,non-positive premium
+othliab,8427,Farm Bureau Grp,paid decreases in known triangle
+othliab,8672,Protective Ins Grp,non-positive first-year paid
+othliab,9466,Lumber Ins Cos,paid decreases in known triangle
+othliab,10019,Overseas Partners Us Reins Co,non-positive premium
+othliab,10020,United Educators Ins RRG Inc,non-positive first-year paid
+othliab,10022,Agway Ins Co,non-positive first-year paid
+othliab,10048,Hyundai Marine & Fire Ins Co Ltd,non-positive premium
+othliab,10069,Housing Authority Prop Ins Inc,non-positive premium
+othliab,10083,National Catholic RRG,non-positive first-year paid
+othliab,10100,Proformance Ins Co (The),non-positive premium
+othliab,10103,American Agricultural Ins Co,non-positive first-year paid
+othliab,10115,Eastern Dentists Ins Co RRG,non-positive premium
+othliab,10163,General Eastern Ski Ins RRG Inc,non-positive premium
+othliab,10308,Antilles Ins Co,non-positive first-year paid
+othliab,10323,Farmers Mut Ins Co,non-positive premium
+othliab,10341,Controlled Risk Ins Co Of VT Inc,non-positive premium
+othliab,10380,Leatherstocking Coop Ins  Co,non-positive first-year paid
+othliab,10561,Catholic Relief Ins Co Of Amer,non-positive premium
+othliab,10720,Carolina Farmers Mut Ins Co,non-positive premium
+othliab,11061,Farmers Fire Ins Co,non-positive first-year paid
+othliab,11231,Generali Us Branch,non-positive first-year paid
+othliab,11320,Gold Medal Ins Co,non-positive premium
+othliab,11932,Mid-Continent Ins Co,non-positive first-year paid
+othliab,12260,Campmed Cas & Ind Co Inc MD,non-positive premium
+othliab,12645,Standard Cas Co,non-positive first-year paid
+othliab,12866,THE Ins Co,paid decreases in known triangle
+othliab,13439,Partners Mut Ins Co,paid decreases in known triangle
+othliab,13501,Brethren Mut Ins Co,paid decreases in known triangle
+othliab,13528,Brotherhood Mut Ins Co,paid decreases in known triangle
+othliab,13587,Chicago Mut Ins Co,non-positive first-year paid
+othliab,13641,Colorado Farm Bureau Mut Ins Co,paid decreases in known triangle
+othliab,13943,Fitchburg Mut Ins Co,paid decreases in known triangle
+othliab,13994,Fremont Mut Ins Co,paid decreases in known triangle
+othliab,14010,Crusader Ins Co,non-positive first-year paid
+othliab,14362,Kansas Mut Ins Co,non-positive premium
+othliab,14370,Lebanon Mut Ins Co,paid decreases in known triangle
+othliab,14427,Louisiana Farm Bureau Mut Ins Co,non-positive premium
+othliab,14443,Madison Mut Ins Co,non-positive first-year paid
+othliab,14451,Marysville Mut Ins Co,paid decreases in known triangle
+othliab,14508,Michigan Millers Mut Ins Co,paid decreases in known triangle
+othliab,14605,Mississippi Farm Bureau Mut Ins Co,non-positive premium
+othliab,14753,Frederick Mut Ins Co,non-positive first-year paid
+othliab,14915,Otsego Mut Fire Ins Co,paid decreases in known triangle
+othliab,15172,Southern Mut Ins Co,non-positive premium
+othliab,15199,Standard Mut Ins Co,paid decreases in known triangle
+othliab,15210,Sterling Ins Co,paid decreases in known triangle
+othliab,15326,Utica First Ins Co,non-positive first-year paid
+othliab,15407,Wolverine Mut Ins Co,paid decreases in known triangle
+othliab,15660,Motor Club Ins Assoc,non-positive premium
+othliab,15768,Merced Mut Ins Co,paid decreases in known triangle
+othliab,15865,NCMIC Ins Co,non-positive premium
+othliab,15911,American Mining Ins Co Inc,non-positive premium
+othliab,16748,Elevators Mut Ins Co,non-positive premium
+othliab,16888,Bedford Grange Mut Ins Co,non-positive premium
+othliab,16985,Conemaugh Valley Mut Ins Co,non-positive first-year paid
+othliab,17043,Everett Cash Mut Ins Co,non-positive first-year paid
+othliab,17124,Farmers Mut Ins Co,non-positive first-year paid
+othliab,17299,Mennonite Mut Ins Co,non-positive first-year paid
+othliab,17329,Juniata Mut Ins Co,non-positive first-year paid
+othliab,17469,Montour Mut Ins Co,non-positive first-year paid
+othliab,17485,Mutual Ins Co Of Lehigh Cnty,non-positive first-year paid
+othliab,17493,Nazareth Mut Ins Co,non-positive first-year paid
+othliab,17574,Patrons Mut Fire Assoc Of Nw PA,non-positive premium
+othliab,17701,Pymatuning Mut Fire Ins Co,non-positive premium
+othliab,18228,Farmers Home Mut Fire Ins Co,non-positive premium
+othliab,18380,Pacific Ind Ins Co,non-positive premium
+othliab,18538,Bancinsure Inc,non-positive premium
+othliab,18686,Co-Operative Ins Co,paid decreases in known triangle
+othliab,18791,Virginia Mut Ins Co,non-positive first-year paid
+othliab,19160,Old Lyme Ins Co Of RI Inc,paid decreases in known triangle
+othliab,20690,New York Municipal Ins Reciprocal,non-positive premium
+othliab,21172,Vanliner Ins Co,non-positive first-year paid
+othliab,22020,Wi Lawyers Mut Ins Co,non-positive first-year paid
+othliab,22900,Louisiana Pest Control Ins Co,non-positive premium
+othliab,23060,Tri-State Consumer Ins Co,non-positive premium
+othliab,23574,Midwest Family Mut Ins Co,paid decreases in known triangle
+othliab,23663,National American Ins Co,non-positive first-year paid
+othliab,23876,Mapfre Reins Corp,non-positive premium
+othliab,24660,Cumberland Cas & Surety Co,non-positive premium
+othliab,24830,Cities & Villages Mut Ins Co,non-positive first-year paid
+othliab,26433,Harco Natl Ins Co,non-positive first-year paid
+othliab,26468,Southern Mut Church Ins Co,non-positive first-year paid
+othliab,26760,Fulmont Mut Ins Co,non-positive premium
+othliab,26797,Housing Authority Rrg Inc,paid decreases in known triangle
+othliab,26808,Gulf States Ins Co,paid decreases in known triangle
+othliab,26818,Midstate Mut Ins Co,non-positive first-year paid
+othliab,26824,Sublimity Ins Co,non-positive first-year paid
+othliab,27278,Protection Mut Ins Co Of Littlestown,non-positive premium
+othliab,27766,Missouri Valley Mut Ins Co,non-positive first-year paid
+othliab,27955,Commercial Risk Re-Ins Co,non-positive premium
+othliab,28134,Lutheran Mut Fire Ins Co,non-positive premium
+othliab,28258,Continental Natl Ind Co,non-positive premium
+othliab,28886,Transguard Ins Co Of Amer Inc,non-positive premium
+othliab,29440,Mountain West Farm Bu Mut Ins Co,non-positive first-year paid
+othliab,30139,Mlba Limited Liability Pool,non-positive first-year paid
+othliab,30317,Hanys Ins Co,non-positive premium
+othliab,30449,Madison Mut Ins Co,non-positive first-year paid
+othliab,30457,Southern MI Mut Ins Co,non-positive first-year paid
+othliab,30651,Farmers Mut Of TN,paid decreases in known triangle
+othliab,31280,North American Ind Co,non-positive premium
+othliab,31780,Maple Valley Mut Ins Co,non-positive premium
+othliab,31810,Middle States Ins Co Inc,non-positive premium
+othliab,32301,Nichido Fire & Marine Ins Co Ltd,non-positive first-year paid
+othliab,32670,Farmers Union Mut Ins Co,paid decreases in known triangle
+othliab,32930,Capacity Ins Co,non-positive premium
+othliab,33049,State Volunteer Mut Ins Co,non-positive first-year paid
+othliab,33111,MHA Ins Co,non-positive first-year paid
+othliab,33499,Dorinco Rein Co,non-positive premium
+othliab,34150,Florida Lawyers Mut Ins Co,non-positive premium
+othliab,34525,First American Specilaty Ins Co,non-positive premium
+othliab,35360,Gibraltar Natl Ins Co,non-positive premium
+othliab,35483,Daily Underwriters Of Amer,non-positive premium
+othliab,35866,Mid-Hudson Co-Operative Ins Co,non-positive first-year paid
+othliab,35904,Health Care Ind Inc,non-positive premium
+othliab,36013,Lawyers Mut Liab Ins Co Of NC,non-positive first-year paid
+othliab,36234,Preferred Professional Ins Co,non-positive premium
+othliab,36277,Medical Mut Ins Co Of ME,non-positive premium
+othliab,36285,United Americas Ins Co,non-positive premium
+othliab,36315,Farmers Mech Mut Fire Ins Of WV,paid decreases in known triangle
+othliab,36340,Camico Mut Ins Co,non-positive first-year paid
+othliab,36684,Nonprofits Ins Assn Interins,non-positive premium
+othliab,37206,Contractors Bonding & Ins Co,non-positive premium
+othliab,37800,Lg Ins Co Ltd Us Branch,non-positive premium
+othliab,38148,North Sea Ins Co,non-positive first-year paid
+othliab,38300,Samsung Fire & Marine Ins Co Ltd,non-positive premium
+othliab,38466,Evergreen USA RRG Inc,non-positive premium
+othliab,38644,Omega Ins Co,non-positive premium
+othliab,38997,Nissan Fire & Marine Ins Co Us Br,no outstanding amount
+othliab,39381,Adriatic Ins Co,non-positive premium
+othliab,39861,Golden Bear Ins Co,non-positive first-year paid
+othliab,40223,Baltica-Skandinavia Rein Co Of Amer,non-positive premium
+othliab,40568,Seguros Triples Inc,paid decreases in known triangle
+othliab,40800,American Sterling Ins Co,non-positive premium
+othliab,41068,National Fire & Cas Co,non-positive first-year paid
+othliab,41300,American Resources Ins Co Inc,paid decreases in known triangle
+othliab,41467,Physicians Recip Insurers,non-positive premium
+othliab,41580,Red Shield Ins Co,paid decreases in known triangle
+othliab,42439,Toa-Re Ins Co Of Amer,non-positive first-year paid
+othliab,42749,Traders Ins Co,non-positive premium
+othliab,42757,Agri General Ins Co,non-positive premium
+othliab,42846,Atlantic Cas Ins Co,non-positive premium
+othliab,42927,IL State Bar Assoc Mut Ins Co,non-positive premium
+othliab,43265,Gramercy Ins Co,non-positive premium
+othliab,43354,San Antonio Reins Co,paid decreases in known triangle
+othliab,43826,Central Co-Operative Ins Co,non-positive premium
+othliab,43842,Finger Lakes Fire & Cas Ins Co,non-positive first-year paid
+othliab,43850,Oswego County Mut Ins Co,non-positive premium
+othliab,43915,Rainier Ins Co,non-positive premium
+othliab,44075,States Self-Insurers RRG,non-positive premium
+othliab,44091,Dowa Fire & Marine Ins Co Ltd Us Br,non-positive premium
+othliab,44105,Ophthalmic Mut Ins Co RRG,non-positive premium
+othliab,44300,Tower Ins Co Of NY,non-positive premium
+othliab,44377,Halifax Mut Ins Co,non-positive premium
+othliab,44598,College Liability Ins Co Ltd RRG,non-positive first-year paid
+medmal,683,Promutual Grp,paid decreases in known triangle
+medmal,841,Great Amer Grp,non-positive premium
+medmal,1406,Nationwide Grp,non-positive premium
+medmal,10019,Overseas Partners Us Reins Co,non-positive premium
+medmal,10115,Eastern Dentists Ins Co RRG,non-positive premium
+medmal,10232,American Assoc Of Othodontists RRG,non-positive premium
+medmal,10341,Controlled Risk Ins Co Of VT Inc,non-positive premium
+medmal,10393,Texas Medical Ins Co,non-positive premium
+medmal,10697,MCIC VT Inc RRG,non-positive premium
+medmal,10842,Franklin Cas Ins Co RRG,non-positive premium
+medmal,11460,Homestead Ins Co,non-positive premium
+medmal,12260,Campmed Cas & Ind Co Inc MD,non-positive premium
+medmal,13893,Community Blood Cntr Exch RRG,non-positive premium
+medmal,15792,Underwriters At Lloyds London,non-positive premium
+medmal,15865,NCMIC Ins Co,non-positive premium
+medmal,23663,National American Ins Co,non-positive premium
+medmal,31429,Michigan Professional Ins Exch,non-positive premium
+medmal,32301,Nichido Fire & Marine Ins Co Ltd,non-positive premium
+medmal,33049,State Volunteer Mut Ins Co,paid decreases in known triangle
+medmal,33111,MHA Ins Co,paid decreases in known triangle
+medmal,35904,Health Care Ind Inc,non-positive premium
+medmal,36072,National Guardian RRG Inc,non-positive premium
+medmal,36277,Medical Mut Ins Co Of ME,non-positive first-year paid
+medmal,43656,Louisiana Med Mut Ins Co,non-positive first-year paid
+medmal,43770,Clinic Mut Ins Co RRG,paid decreases in known triangle
+medmal,44504,California Healthcare Ins Co Inc,non-positive premium
+prodliab,248,Atlantic Mut Grp,non-positive first-year paid
+prodliab,337,California Cas Grp,non-positive premium
+prodliab,353,Celina Mut Grp,paid decreases in known triangle
+prodliab,388,Federal Ins Co Grp,paid decreases in known triangle
+prodliab,667,Everest Reins Grp,non-positive premium
+prodliab,833,Grange Ins Asn Grp,non-positive first-year paid
+prodliab,1066,Island Ins Cos Grp,paid decreases in known triangle
+prodliab,1236,Shelter Ins Cos Grp,non-positive first-year paid
+prodliab,1279,American Modern Ins Grp Inc,non-positive premium
+prodliab,2003,United Services Automobile Asn Grp,non-positive premium
+prodliab,2143,Farmers Alliance Mut & Affiliates,paid decreases in known triangle
+prodliab,2348,Vermont Mut Ins Co Grp,non-positive first-year paid
+prodliab,4790,First Fncl Ins Co,non-positive premium
+prodliab,4839,FL Farm Bureau Grp,non-positive premium
+prodliab,6459,Oregon Mut Grp,non-positive first-year paid
+prodliab,6980,North Star Co,non-positive first-year paid
+prodliab,7080,New Jersey Manufacturers Grp,non-positive premium
+prodliab,7498,Scor Reins Co Grp,non-positive premium
+prodliab,7625,Franklin Mut Ins Grp,non-positive first-year paid
+prodliab,7838,RLI Ins Co Grp,non-positive first-year paid
+prodliab,8079,Columbia Ins Grp,non-positive premium
+prodliab,8281,Amguard Norguard & Eastguard Grp,non-positive premium
+prodliab,8559,Millers Mut Ins Assoc,paid decreases in known triangle
+prodliab,9466,Lumber Ins Cos,non-positive premium
+prodliab,9571,American Re Grp,non-positive first-year paid
+prodliab,10019,Overseas Partners Us Reins Co,non-positive premium
+prodliab,10048,Hyundai Marine & Fire Ins Co Ltd,non-positive premium
+prodliab,10308,Antilles Ins Co,non-positive first-year paid
+prodliab,10380,Leatherstocking Coop Ins  Co,non-positive premium
+prodliab,11126,Yasuda Fire & Marine Ins Co Of Amer,non-positive first-year paid
+prodliab,11487,Imperial Cas & Ind Co,non-positive premium
+prodliab,11568,Constitutional Cas Co,non-positive premium
+prodliab,12260,Campmed Cas & Ind Co Inc MD,non-positive premium
+prodliab,13439,Partners Mut Ins Co,non-positive premium
+prodliab,13528,Brotherhood Mut Ins Co,non-positive first-year paid
+prodliab,13587,Chicago Mut Ins Co,non-positive premium
+prodliab,14044,Goodville Mut Cas Co,non-positive first-year paid
+prodliab,14257,IMT Ins Co Mut,non-positive first-year paid
+prodliab,14370,Lebanon Mut Ins Co,non-positive premium
+prodliab,14508,Michigan Millers Mut Ins Co,non-positive first-year paid
+prodliab,15024,Preferred Mut Ins Co,non-positive first-year paid
+prodliab,15571,Illinois Cas Co,non-positive premium
+prodliab,15792,Underwriters At Lloyds London,non-positive first-year paid
+prodliab,16446,Farmers Ins Co of Flemington,non-positive premium
+prodliab,17884,German Mut Ins Co,non-positive first-year paid
+prodliab,18163,Cooperativa D Seguros Multiples PR,non-positive premium
+prodliab,18309,Pioneer State Mut Ins Co,non-positive premium
+prodliab,18791,Virginia Mut Ins Co,non-positive first-year paid
+prodliab,23663,National American Ins Co,non-positive premium
+prodliab,26433,Harco Natl Ins Co,non-positive premium
+prodliab,26760,Fulmont Mut Ins Co,non-positive premium
+prodliab,28258,Continental Natl Ind Co,non-positive first-year paid
+prodliab,32301,Nichido Fire & Marine Ins Co Ltd,non-positive premium
+prodliab,33499,Dorinco Rein Co,non-positive premium
+prodliab,35408,Sirius Amer Ins Co,non-positive premium
+prodliab,36684,Nonprofits Ins Assn Interins,non-positive premium
+prodliab,37206,Contractors Bonding & Ins Co,non-positive premium
+prodliab,38237,American Country Ins Co,non-positive premium
+prodliab,38300,Samsung Fire & Marine Ins Co Ltd,non-positive premium
+prodliab,38733,Alaska Nat Ins Co,non-positive premium
+prodliab,44091,Dowa Fire & Marine Ins Co Ltd Us Br,non-positive premium

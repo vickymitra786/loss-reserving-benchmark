@@ -1,0 +1,9 @@
+{
+  "name": "loss-reserving-paper",
+  "private": true,
+  "description": "Builds the paper .docx from results/summary.json",
+  "author": "Vivek Mitra",
+  "license": "AGPL-3.0-only",
+  "scripts": { "build": "node build_paper.js" },
+  "dependencies": { "docx": "^9.16.0" }
+}
