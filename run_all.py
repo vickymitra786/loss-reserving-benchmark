@@ -27,7 +27,11 @@ SIMS = 4000
 Q = [0.05, 0.10, 0.50, 0.90, 0.95]                      # quantiles kept for each range
 ERR_EDGES = np.round(np.arange(-1.0, 2.01, 0.1), 2)    # error histogram: -100% .. +200%
 HERE = Path(__file__).parent
+# Website data goes to the vivekmitra.com folder when it sits next to this repo; otherwise into this repo.
 SITE = HERE.parent.parent / "site" / "data"
+if not SITE.parent.exists():
+    SITE = HERE / "site_data"
+SITE.mkdir(exist_ok=True)
 
 
 def wilson(k, n):
